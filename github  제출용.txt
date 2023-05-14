@@ -1,0 +1,8 @@
+﻿빌드 시작...
+1>------ 빌드 시작: 프로젝트: github assignment, 구성: Debug x64 ------
+1>LOLtier.c
+1>C:\Users\oongs\source\repos\github assignment\github assignment\LOLtier.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>github assignment.vcxproj -> C:\Users\oongs\source\repos\github assignment\x64\Debug\github assignment.exe
+1>"github assignment.vcxproj" 프로젝트를 빌드했습니다.
+========== 빌드: 1개 성공, 0개 실패, 0개 최신 상태, 0개 건너뜀 ==========
+========== 빌드이(가) 1:27 PM에 시작되었고 00.826 초이(가) 소요됨 ==========
